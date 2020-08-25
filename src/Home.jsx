@@ -9,7 +9,7 @@ const Home = () =>{
  return (
  <>
 <Common 
-name="Grow your any type of business "
+name="Grow your any business with "
   imgsrc={web} visit="/service"
    btname="Get Started"/>
 </>
